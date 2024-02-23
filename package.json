@@ -1,0 +1,16 @@
+{
+  "name": "positions",
+  "version": "1.0.0",
+  "description": "positions pug project",
+  "scripts": {
+    "dev": "pug -w src/index.pug --out ."
+  },
+  "keywords": [
+    "pug",
+    "scss",
+    "html",
+    "css"
+  ],
+  "author": "hourwitz serhiy shmone800@gmail.com",
+  "license": "ISC"
+}
